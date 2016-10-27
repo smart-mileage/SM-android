@@ -39,4 +39,6 @@ dependencies {
     compile 'com.github.PhilJay:MPAndroidChart:v3.0.0-beta1'
 
     compile 'com.roughike:bottom-bar:2.0.2'
+
+    compile 'com.github.clans:fab:1.6.4'
 }
